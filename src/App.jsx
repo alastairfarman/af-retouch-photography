@@ -2,7 +2,22 @@ import React from 'react';
 import ImageSection from './components/ImageSection';
 
 const App = () => {
-  const retouchImages = ['./img/retouch/1.jpg', './img/retouch/2.jpg', './img/retouch/3.jpg'];
+  const retouchImages = ['./img/retouch/1.jpg',
+  './img/retouch/2.jpg',
+  './img/retouch/3.jpg',
+  './img/retouch/4.jpg',
+  './img/retouch/5.jpg',
+  './img/retouch/6.jpg',
+  './img/retouch/7.jpg',
+  './img/retouch/8.jpg',
+  './img/retouch/9.jpg',
+  './img/retouch/10.jpg',
+  './img/retouch/11.jpg',
+  './img/retouch/12.jpg',
+  './img/retouch/13.jpg',
+  './img/retouch/14.jpg',
+  './img/retouch/15.jpg',
+];
   const photographyImages = ['./img/photo/0.jpg',
   './img/photo/1.jpg',
   './img/photo/2.jpg',
