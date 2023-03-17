@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "./static/css/main.82a5453e.css",
+    "main.js": "./static/js/main.e05bbe76.js",
+    "static/media/FamiljenGrotesk-VariableItalic.ttf": "./static/media/FamiljenGrotesk-VariableItalic.ba5b42e88559b3d81632.ttf",
+    "static/media/FamiljenGrotesk-Variable.ttf": "./static/media/FamiljenGrotesk-Variable.16555bea0a293c10df04.ttf",
+    "index.html": "./index.html",
+    "main.82a5453e.css.map": "./static/css/main.82a5453e.css.map",
+    "main.e05bbe76.js.map": "./static/js/main.e05bbe76.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.82a5453e.css",
+    "static/js/main.e05bbe76.js"
+  ]
+}
